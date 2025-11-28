@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="error">Error</string>
+    <string name="request_permission_denied_for_camera">No access to the camera or device memory. You can grant access in settings</string>
+
+    <string name="movies_list_page_title">Movies</string>
+    <string name="movie_details_release_date_format">Release date: %s</string>
+    <string name="movie_rating_format">%.2f</string>
+</resources>
