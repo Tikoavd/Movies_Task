@@ -38,7 +38,7 @@ dependencies {
     androidTestImplementation(androidTest.androidxJunit)
     androidTestImplementation(androidTest.androidxEspressoCore)
     implementation(androidXLibraries.roomRuntime)
-    kapt (androidXLibraries.roomCompiler)
+    ksp (androidXLibraries.roomCompiler)
     implementation libraries.koinAndroid
     implementation libraries.koinAnnotations
     ksp libraries.kspCompiler
